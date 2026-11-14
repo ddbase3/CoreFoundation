@@ -1,0 +1,9 @@
+{
+	"manifestVersion": 1,
+	"name": "CoreFoundation",
+	"namespace": "Base3\\CoreFoundation",
+	"version": "4.10.0",
+	"description": "BASE3 framework contracts, value objects, models, exceptions, common bases and neutral helpers.",
+	"license": "GPL-3.0-or-later",
+	"dependencies": {}
+}
